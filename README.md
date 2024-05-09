@@ -23,9 +23,9 @@ Introducing EcoRecycle Finder, your go-to solution for responsible e-waste dispo
 
 
 ## Technology Stack
-Geocoding API for geographical coordinates
-PostgreSQL 16.3, MySQL 6.7.44 for database
-Jupyter Notebook 7.0.3 for image recognition using Tensorflow
+<h3>Geocoding API for geographical coordinates</h3>
+<h3>PostgreSQL 16.3, MySQL 6.7.44 for database</h3>
+<h3>Jupyter Notebook 7.0.3 for image recognition using Tensorflow</h3>
 ## Dependencies
 <h3>Mapping Services – 10 Days</h3>
 <h3>Data Collection – 15 Days</h3>
