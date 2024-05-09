@@ -10,9 +10,8 @@ Website that tells you the location of the nearest e-waste collection and recycl
 Ministry of Environment
 
 ## Idea
-```
 Introducing EcoRecycle Finder, your go-to solution for responsible e-waste disposal. Our platform offers a user-friendly interface and an interactive map to help you locate the nearest recycling facilities with ease. With detailed information on accepted devices, operating hours, and contact details, recycling your electronic waste has never been simpler. Join our community in making a positive impact on the environment by recycling your e-waste through EcoRecycle Finder today.EcoRecycle Finder streamlines the process of finding the closest e-waste recycling facilities, empowering individuals and businesses to make environmentally conscious choices. With just a few clicks, users can access essential information about each facility, ensuring a seamless and hassle-free recycling experience. Together, let's take a step towards a greener future by responsibly disposing of our electronic waste through EcoRecycle Finder.
-```
+
 
 ## Proposed Solution / Architecture Diagram
  ![e-waste architecture](https://github.com/21002986/SIHPS/assets/112633513/1879f28f-8ff2-4235-91f3-d28f506cd447)
