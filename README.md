@@ -27,6 +27,6 @@ Geocoding API for geographical coordinates
 PostgreSQL 16.3, MySQL 6.7.44 for database
 Jupyter Notebook 7.0.3 for image recognition using Tensorflow
 ## Dependencies
-Mapping Services – 10 Days
-Data Collection – 15 Days
-Estimated Budget – Rs.30,000
+<h3>Mapping Services – 10 Days</h3>
+<h3>Data Collection – 15 Days</h3>
+<h3>Estimated Budget – Rs.30,000</h3>
